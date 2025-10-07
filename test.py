@@ -1,1 +1,1 @@
-print("Hello ji, HEllo ji, Kya haal chal bhai")
+print("Hello ji, HEllo ji, Kya haal chal")
